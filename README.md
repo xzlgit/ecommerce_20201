@@ -1,3 +1,5 @@
+用 webpack.config.js 替换掉 ecommerce\node_modules\react-scripts\config\里的webpack.config.js :(   (TODO)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
